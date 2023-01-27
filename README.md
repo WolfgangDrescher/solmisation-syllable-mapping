@@ -8,7 +8,6 @@ should be able to display.
 
 Reference discussion from the verovio repo: https://github.com/rism-digital/verovio/discussions/3166#discussioncomment-4499475
 
-[Discussions](https://github.com/WolfgangDrescher/solmisation-syllable-mapping/discussions)
-are open in this repository.
+For specific questions please go to the [GitHub discussions](https://github.com/WolfgangDrescher/solmisation-syllable-mapping/discussions).
 
 [mapping.krn](mapping.krn) | [VHV](https://verovio.humdrum.org/?file=https://raw.githubusercontent.com/WolfgangDrescher/solmisation-syllable-mapping/master/mapping.krn)
